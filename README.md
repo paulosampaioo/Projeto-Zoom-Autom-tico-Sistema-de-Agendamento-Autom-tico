@@ -5,6 +5,16 @@ O objetivo é criar um sistema funcional de agendamento utilizando a plataforma 
 
 ---
 
+## 🧭 Como Executar Localmente
+
+Este é um projeto no-code, portanto não requer instalação.
+
+Para testar:
+1. Acesse o link do sistema
+2. Preencha o formulário
+3. Receba a confirmação automática
+
+---
 ## 🔗 Links Importantes
 
 - **Link do Vídeo de Apresentação:**  
